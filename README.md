@@ -13,12 +13,12 @@ If you change your mind and want to clear the agent selection, you can click the
 
 ### Contributors
 
-### Contributors
-
-
+<div>
+  <img src="https://github.com/Beast-East.png" alt="Beast-East" width="100" height="100">
   <div><strong><a href="https://github.com/Beast-East">Beast-East</a></strong></div>
 </div>
 
+&nbsp;
 
 
 
